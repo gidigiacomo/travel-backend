@@ -1,0 +1,26 @@
+{
+    "data" : [
+        {
+            "id": 0,
+            "country": "France",
+            "locations" : [
+                {"id": 0, "location": "Paris", "img_url": "", "description": "tttt"},
+                {"id": 1, "location": "Loire Valley", "img_url": ""},
+                {"id": 2, "location": "Lyon", "img_url": ""}
+            ]
+        },
+
+        
+        {
+            "id": 1,
+            "country": "Sweden",
+            "locations" : [
+                {"id": 0, "location": "Paris"},
+                {"id": 1, "location": "LOIRE VALLEY"}
+            ]
+        }
+    ]
+}    
+
+
+
