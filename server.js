@@ -1,10 +1,10 @@
 import path from "path"
 import express from "express";
-
+import cors from "cors";
 
 const app = express();
 app.use(express.static('public'))
-
+app.use(cors())
 
 
 
@@ -23,6 +23,7 @@ app.get("/", (req, res) => {
         res.sendFile("/res/1.png", {
           root: process.cwd(), // directory name
         });
+    
 
 //   res.sendFile(path.join(__dirname, "./res/1.png"), {
 //     root: process.cwd(), // directory name
