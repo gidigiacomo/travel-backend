@@ -1,23 +1,6 @@
 {
     "data" : [
         {
-            "id": 0,
-            "country": "France",
-            "locations" : [
-                {"id": 0, "location": "Paris", "img_url": "", "description": "tttt"},
-                {"id": 1, "location": "Loire Valley", "img_url": ""},
-                {"id": 2, "location": "Lyon", "img_url": ""}
-            ]
-        },      
-        {
-            "id": 1,
-            "country": "Sweden",
-            "locations" : [
-                {"id": 0, "location": "Paris"},
-                {"id": 1, "location": "LOIRE VALLEY"}
-            ]
-        },
-        {
             "id": 2,
             "country": "Iceland",
             "locations":"Northern Hemisphere and mostly in the Eastern Hemisphere.",
@@ -36,6 +19,50 @@
         {
             "id": 3,
             "country": "Greece",
+            "locations":"Greece is famous for its ancient philosophers, like Plato, Pythagoras, Socrates, and Aristotle, to name a few. It is known as the birthplace of democracy in the West; they invented the Olympic Games and theater. Ancient Greeks invented monumental temples with Greek columns.",
+            "thingsTodo" : [
+                {"id": 0, "location": "Santorini","img_url":"https://s3.eu-west-2.amazonaws.com/luxurylondon.co.uk-storage-bucket-001/images/280619170518/card/santorini-greece-summer-holidays-tourism-s.jpg","description":"Santorini is a volcanic island in the Cyclades group of the Greek islands. It is located between Ios and Anafi islands. It is famous for dramatic views, stunning sunsets from Oia town, the strange white aubergine (eggplant), the town of Thira, and naturally its very own active volcano."},
+                {"id": 1, "location": "Nafplio","img_url":"https://magnesiatravel.gr/files/repository/20170802104622_hbourtzi.jpg","description":" Image result for Nafplio  best known forIT IS CONSIDERED TO BE ONE OF THE MOST ROMANTIC CITIES IN GREECE. With bougainvillaeas cascading down its medieval castles, Byzantine churches, Turkish fountains and mosques and stately neoclassical buildings, Nafplio marries old-world charm with stunning architecture"},
+                {"id": 2, "location": "Corfu","img_url":"https://i.ytimg.com/vi/T1yQJk-Vl0E/maxresdefault.jpg","description":"Corfu Island is best known for beautiful beaches, excellent restaurants, religious sites, culture & history, and stunning accommodations"},
+                {"id": 3, "location": "Zakynthos","img_url":"https://www.urlaubstracker.de/wp-content/uploads/2022/05/griechenland-zakynthos-park-hotel-und-spa-bucht-640x290.jpeg","description":"zakynthos is the worldwide famous Navagio (Shipwreck) beach and glorified by innumerable travel guides, Zakynthos island is one of the most popular Greek islands!"},
+                {"id": 4, "location": "Athens","img_url":"https://cdn.britannica.com/66/102266-050-FBDEFCA1/acropolis-city-state-Greece-Athens.jpg","description":"Athens, Modern Greek Athínai, Ancient Greek Athēnai, historic city and capital of Greece. Many of Classical civilization's intellectual and artistic ideas originated there, and the city is generally considered to be the birthplace of Western civilization."},
+                {"id": 5, "location": "Skiathos","img_url":"https://travelpassionate.com/wp-content/uploads/2020/01/Lalaria-Beach-Skiathos.jpg","description":"Boasting a beautiful- packed with pine trees- natural landscape and having over 60 stunning beaches, Skiathos Greece is a paradise for nature lovers!"},
+                {"id": 6, "location": "Olympia","img_url":"https://www.greeka.com/photos/discover_boxes/peloponnese/olympia/history/olympia-history-480.jpg","description":"Olympia, the birthplace of the Olympic Games is another place to visit in Greece which is carved into history."}
+
+            ]
+        },
+        {
+            "id": 3,
+            "country": "Greece-2",
+            "locations":"Greece is famous for its ancient philosophers, like Plato, Pythagoras, Socrates, and Aristotle, to name a few. It is known as the birthplace of democracy in the West; they invented the Olympic Games and theater. Ancient Greeks invented monumental temples with Greek columns.",
+            "thingsTodo" : [
+                {"id": 0, "location": "Santorini","img_url":"https://s3.eu-west-2.amazonaws.com/luxurylondon.co.uk-storage-bucket-001/images/280619170518/card/santorini-greece-summer-holidays-tourism-s.jpg","description":"Santorini is a volcanic island in the Cyclades group of the Greek islands. It is located between Ios and Anafi islands. It is famous for dramatic views, stunning sunsets from Oia town, the strange white aubergine (eggplant), the town of Thira, and naturally its very own active volcano."},
+                {"id": 1, "location": "Nafplio","img_url":"https://magnesiatravel.gr/files/repository/20170802104622_hbourtzi.jpg","description":" Image result for Nafplio  best known forIT IS CONSIDERED TO BE ONE OF THE MOST ROMANTIC CITIES IN GREECE. With bougainvillaeas cascading down its medieval castles, Byzantine churches, Turkish fountains and mosques and stately neoclassical buildings, Nafplio marries old-world charm with stunning architecture"},
+                {"id": 2, "location": "Corfu","img_url":"https://i.ytimg.com/vi/T1yQJk-Vl0E/maxresdefault.jpg","description":"Corfu Island is best known for beautiful beaches, excellent restaurants, religious sites, culture & history, and stunning accommodations"},
+                {"id": 3, "location": "Zakynthos","img_url":"https://www.urlaubstracker.de/wp-content/uploads/2022/05/griechenland-zakynthos-park-hotel-und-spa-bucht-640x290.jpeg","description":"zakynthos is the worldwide famous Navagio (Shipwreck) beach and glorified by innumerable travel guides, Zakynthos island is one of the most popular Greek islands!"},
+                {"id": 4, "location": "Athens","img_url":"https://cdn.britannica.com/66/102266-050-FBDEFCA1/acropolis-city-state-Greece-Athens.jpg","description":"Athens, Modern Greek Athínai, Ancient Greek Athēnai, historic city and capital of Greece. Many of Classical civilization's intellectual and artistic ideas originated there, and the city is generally considered to be the birthplace of Western civilization."},
+                {"id": 5, "location": "Skiathos","img_url":"https://travelpassionate.com/wp-content/uploads/2020/01/Lalaria-Beach-Skiathos.jpg","description":"Boasting a beautiful- packed with pine trees- natural landscape and having over 60 stunning beaches, Skiathos Greece is a paradise for nature lovers!"},
+                {"id": 6, "location": "Olympia","img_url":"https://www.greeka.com/photos/discover_boxes/peloponnese/olympia/history/olympia-history-480.jpg","description":"Olympia, the birthplace of the Olympic Games is another place to visit in Greece which is carved into history."}
+
+            ]
+        },{
+            "id": 3,
+            "country": "Greece-3",
+            "locations":"Greece is famous for its ancient philosophers, like Plato, Pythagoras, Socrates, and Aristotle, to name a few. It is known as the birthplace of democracy in the West; they invented the Olympic Games and theater. Ancient Greeks invented monumental temples with Greek columns.",
+            "thingsTodo" : [
+                {"id": 0, "location": "Santorini","img_url":"https://s3.eu-west-2.amazonaws.com/luxurylondon.co.uk-storage-bucket-001/images/280619170518/card/santorini-greece-summer-holidays-tourism-s.jpg","description":"Santorini is a volcanic island in the Cyclades group of the Greek islands. It is located between Ios and Anafi islands. It is famous for dramatic views, stunning sunsets from Oia town, the strange white aubergine (eggplant), the town of Thira, and naturally its very own active volcano."},
+                {"id": 1, "location": "Nafplio","img_url":"https://magnesiatravel.gr/files/repository/20170802104622_hbourtzi.jpg","description":" Image result for Nafplio  best known forIT IS CONSIDERED TO BE ONE OF THE MOST ROMANTIC CITIES IN GREECE. With bougainvillaeas cascading down its medieval castles, Byzantine churches, Turkish fountains and mosques and stately neoclassical buildings, Nafplio marries old-world charm with stunning architecture"},
+                {"id": 2, "location": "Corfu","img_url":"https://i.ytimg.com/vi/T1yQJk-Vl0E/maxresdefault.jpg","description":"Corfu Island is best known for beautiful beaches, excellent restaurants, religious sites, culture & history, and stunning accommodations"},
+                {"id": 3, "location": "Zakynthos","img_url":"https://www.urlaubstracker.de/wp-content/uploads/2022/05/griechenland-zakynthos-park-hotel-und-spa-bucht-640x290.jpeg","description":"zakynthos is the worldwide famous Navagio (Shipwreck) beach and glorified by innumerable travel guides, Zakynthos island is one of the most popular Greek islands!"},
+                {"id": 4, "location": "Athens","img_url":"https://cdn.britannica.com/66/102266-050-FBDEFCA1/acropolis-city-state-Greece-Athens.jpg","description":"Athens, Modern Greek Athínai, Ancient Greek Athēnai, historic city and capital of Greece. Many of Classical civilization's intellectual and artistic ideas originated there, and the city is generally considered to be the birthplace of Western civilization."},
+                {"id": 5, "location": "Skiathos","img_url":"https://travelpassionate.com/wp-content/uploads/2020/01/Lalaria-Beach-Skiathos.jpg","description":"Boasting a beautiful- packed with pine trees- natural landscape and having over 60 stunning beaches, Skiathos Greece is a paradise for nature lovers!"},
+                {"id": 6, "location": "Olympia","img_url":"https://www.greeka.com/photos/discover_boxes/peloponnese/olympia/history/olympia-history-480.jpg","description":"Olympia, the birthplace of the Olympic Games is another place to visit in Greece which is carved into history."}
+
+            ]
+        },
+        {
+            "id": 3,
+            "country": "Greece-4",
             "locations":"Greece is famous for its ancient philosophers, like Plato, Pythagoras, Socrates, and Aristotle, to name a few. It is known as the birthplace of democracy in the West; they invented the Olympic Games and theater. Ancient Greeks invented monumental temples with Greek columns.",
             "thingsTodo" : [
                 {"id": 0, "location": "Santorini","img_url":"https://s3.eu-west-2.amazonaws.com/luxurylondon.co.uk-storage-bucket-001/images/280619170518/card/santorini-greece-summer-holidays-tourism-s.jpg","description":"Santorini is a volcanic island in the Cyclades group of the Greek islands. It is located between Ios and Anafi islands. It is famous for dramatic views, stunning sunsets from Oia town, the strange white aubergine (eggplant), the town of Thira, and naturally its very own active volcano."},

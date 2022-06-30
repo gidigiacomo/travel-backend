@@ -1,11 +1,11 @@
 import express from "express";
 import data from './model/data.json' assert {type: 'json'};
 
-// import cors from "cors";
+import cors from "cors";
 
 const app = express();
 app.use(express.static('public'))
-// app.use(cors())
+app.use(cors())
 
 
 
