@@ -1,10 +1,11 @@
-import path from "path"
 import express from "express";
-import cors from "cors";
+import data from './model/data.json' assert {type: 'json'};
+
+// import cors from "cors";
 
 const app = express();
 app.use(express.static('public'))
-app.use(cors())
+// app.use(cors())
 
 
 
@@ -15,20 +16,22 @@ app.use(express.json());
 
 
 
-
 app.get("/", (req, res) => {
-    console.log(process.cwd() + "/res/1.png" )
+res.send(data)
+ });
+// app.get("/", (req, res) => {
+//     console.log(process.cwd() + "/res/1.png" )
 
 
-        res.sendFile("/res/1.png", {
-          root: process.cwd(), // directory name
-        });
+        // res.sendFile("/res/1.png", {
+        //   root: process.cwd(), // directory name
+        // });
     
 
 //   res.sendFile(path.join(__dirname, "./res/1.png"), {
 //     root: process.cwd(), // directory name
 //   });
-});
+// });
 
 // app.get("/playlist", (req, res) => {
 //   res.sendFile("data/database.json", {
