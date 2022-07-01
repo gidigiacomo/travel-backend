@@ -1,6 +1,25 @@
 {
     "data": [
         {
+            "id": 0,
+            "country": "Traveling with Group-2",
+            "locations": "Navigation:",
+            "thingsTodo": [
+                {
+                    "id": 0,
+                    "location": "- Use left and right to navigate between countries."
+                },
+                {
+                    "id": 1,
+                    "location": "- Use top and bottom to scroll between locations."
+                },
+                {
+                    "id": 2,
+                    "img_url": "https://www.lufthansa.com/content/dam/lh/images/pixels_variations/c-1003809041-7731859.jpg.transform/lh-dcep-transform-width-1440/img.jpg"
+                }
+            ]
+        },
+        {
             "id": 2,
             "country": "Iceland",
             "locations": "Northern Hemisphere and mostly in the Eastern Hemisphere.",
